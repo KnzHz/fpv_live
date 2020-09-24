@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/reneluckow/fpv_live/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/Users/reneluckow/fpv_live/src/main/res/values-v22/styles.xml",
+                    "from": {
+                        "startLines": "2,4,6,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,108,167,394",
+                        "endLines": "3,5,9,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "103,162,389,622"
+                    }
+                }
+            ]
+        }
+    ]
+}

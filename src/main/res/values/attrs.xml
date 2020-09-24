@@ -187,17 +187,17 @@
         <flag name="standard" value="7" />
     </attr>
     <attr name="max" format="integer">
-        <item name="?0x1000001" value="1" />
+       <!-- <item name="?0x1000001" value="1" /> -->
     </attr>
     <attr name="progress" format="integer">
-        <item name="?0x1000001" value="0" />
+       <!--  <item name="?0x1000001" value="0" /> -->
     </attr>
     <attr name="progressDrawable" format="reference">
     </attr>
     <attr name="progressHeight" format="reference|dimension">
     </attr>
     <attr name="secondaryProgress" format="integer">
-        <item name="?0x1000001" value="0" />
+       <!--  <item name="?0x1000001" value="0" /> -->
     </attr>
     <attr name="secondaryThumb" format="reference">
     </attr>
@@ -1158,7 +1158,7 @@
     <attr name="mapbox_enableStaleState" format="boolean">
     </attr>
     <attr name="mapbox_staleStateTimeout" format="integer">
-        <item name="?0x1000001" value="0" />
+       <!--  <item name="?0x1000001" value="0" /> -->
     </attr>
     <attr name="mapbox_iconPaddingLeft" format="integer">
     </attr>

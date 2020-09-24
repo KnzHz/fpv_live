@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/reneluckow/fpv_live/build/intermediates/incremental/mergeDebugResources/merged.dir/values-he/values-he.xml",
+            "map": [
+                {
+                    "source": "/Users/reneluckow/fpv_live/src/main/res/values-he/strings.xml",
+                    "from": {
+                        "startLines": "13,2,3,4,5,6,7,8,9,10,11,12,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1223,55,209,285,358,431,516,603,719,822,972,1086,1345",
+                        "endColumns": "121,153,75,72,72,84,86,115,102,149,113,136,68",
+                        "endOffsets": "1340,204,280,353,426,511,598,714,817,967,1081,1218,1409"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,177,331,407,480,553,638,725,841,944,1094,1208,1345",
+                        "endColumns": "121,153,75,72,72,84,86,115,102,149,113,136,68",
+                        "endOffsets": "172,326,402,475,548,633,720,836,939,1089,1203,1340,1409"
+                    }
+                }
+            ]
+        }
+    ]
+}
